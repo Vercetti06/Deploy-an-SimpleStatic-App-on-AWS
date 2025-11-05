@@ -1,7 +1,7 @@
 {
-  "name": "simple-static-site",
+  "name": "simple-node-welcome-app",
   "version": "1.0.0",
-  "description": "Simple Node.js static website",
+  "description": "Simple Node.js app showing a welcome message",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
